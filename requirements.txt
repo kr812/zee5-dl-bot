@@ -1,4 +1,4 @@
-requests==2.24.0
+requests=
 telethon
 youtube-dl
 certifi==2020.4.5.1
